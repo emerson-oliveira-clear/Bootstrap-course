@@ -1,0 +1,15 @@
+body{
+
+    background-color: rgb(196, 241, 246);
+}
+
+#carouselExample{
+
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.53);
+}
+
+.card-group{
+
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.53);
+
+}
